@@ -5,7 +5,8 @@ const LOCAL_HOSTS = [
   "127.0.0.1",
   "::1",
   "::ffff:127.0.0.1",
-  "0.0.0.0"
+  "0.0.0.0",
+  "mirror.foxy-sm.my.id"
 ];
 
 Module.register("MMM-KeyBindings", {
